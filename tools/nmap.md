@@ -36,7 +36,7 @@ This will enable **OS Detection**.
 ```bash
 nmap -sV
 ```
-This will enable service version detection.
+This will enable **service version detection**.
 <br>
 
 ```bash
