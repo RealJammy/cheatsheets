@@ -4,4 +4,6 @@ These are some of my cheat sheets compiled from my learning/experience. They are
 
 *Please Note:* I do also use cheat sheets such as those provided by SANS (Very helpful for my GCIH) but these are all my own, either compiled through other cheat sheets or through my own experimenting.
 
+I also welcome all contributions to these, feel free to simply make a pull request and I will probably accept :)
+
 > Last updated by Chris Harris (@cjharris18) on the 27th October 2020
