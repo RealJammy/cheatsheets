@@ -30,7 +30,7 @@ This will run a **UDP** Scan.
 ```bash
 nmap -O
 ```
-This will emable **OS Detection**.
+This will enable **OS Detection**.
 <br>
 
 ```bash
