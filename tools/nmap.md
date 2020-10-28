@@ -89,4 +89,19 @@ nmap -Pn
 **Dont ping** the host.
 <br>
 
+<br>
+
+```bash
+nmap -F
+```
+Scans the 100 **top ports**.
+<br>
+
+<br>
+
+```bash
+nmap --top-ports [N]
+```
+Scans the number of **top ports**, where n is the number of top ports.
+<br>
 > Last updated by Chris Harris (@cjharris18) on the 27th October 2020.
